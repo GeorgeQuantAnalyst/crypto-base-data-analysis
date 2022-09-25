@@ -1,0 +1,93 @@
+ada: 'Cardano is a public blockchain platform. It is open-source and decentralized,
+  with consensus achieved using proof of stake. It can facilitate peer-to-peer transactions
+  with its internal cryptocurrency, ADA.Cardano was founded in 2015 by Ethereum co-founder
+  Charles Hoskinson. The development of the project is overseen and supervised by
+  the Cardano Foundation based in Zug, Switzerland. It is the largest cryptocurrency
+  to use a proof-of-stake blockchain, which is seen as a greener alternative to proof-of-work
+  protocols.
+
+
+  '
+bnb: "\nBinance coin (BNB) is the exchange token of the Binance crypto exchange. It\
+  \ was launched originally on the Ethereum blockchain but later migrated to the Binance\
+  \ Smart Chain, now called BNB Chain.\n\nHolders of BNB with Binance accounts can\
+  \ access discounted fees on the exchange. That means demand for the token is linked\
+  \ to demand for the exchange\u2019s services. Therefore, buying BNB can be seen\
+  \ as a bet on the success of the exchange, in a similar way to buying a share in\
+  \ a company, except that owning the token comes with no ownership rights in the\
+  \ exchange.\n"
+btc: "Bitcoin (Abbreviation: BTC; sign: \u20BF) is a decentralized digital currency\
+  \ that can be transferred on the peer-to-peer bitcoin network. Bitcoin transactions\
+  \ are verified by network nodes through cryptography and recorded in a public distributed\
+  \ ledger called a blockchain. The cryptocurrency was invented in 2008 by an unknown\
+  \ person or group of people using the name Satoshi Nakamoto. The currency began\
+  \ use in 2009, when its implementation was released as open-source software.:\u200A\
+  ch. 1\u200ABitcoin has been described as an economic bubble by at least eight Nobel\
+  \ Memorial Prize in Economic Sciences recipients.The word bitcoin was defined in\
+  \ a white paper published on 31 October 2008. It is a compound of the words bit\
+  \ and coin. No uniform convention for bitcoin capitalization exists; some sources\
+  \ use Bitcoin, capitalized, to refer to the technology and network and bitcoin,\
+  \ lowercase, for the unit of account. The Wall Street Journal, The Chronicle of\
+  \ Higher Education, and the Oxford English Dictionary advocate the use of lowercase\
+  \ bitcoin in all cases.\nThe legality of bitcoin varies by region. Nine countries\
+  \ have fully banned bitcoin use, while a further fifteen have implicitly banned\
+  \ it. A few governments have used bitcoin in some capacity. El Salvador has adopted\
+  \ Bitcoin as legal tender, although use by merchants remains low. Ukraine has accepted\
+  \ cryptocurrency donations to fund the resistance to the 2022 Russian invasion.\
+  \ Iran has used bitcoin to bypass sanctions."
+eth: "Ethereum is a decentralized, open-source blockchain with smart contract functionality.\
+  \ Ether (Abbreviation: ETH;  sign: \u039E) is the native cryptocurrency of the platform.\
+  \ Among cryptocurrencies, ether is second only to bitcoin in market capitalization.Ethereum\
+  \ was conceived in 2013 by programmer Vitalik Buterin. Additional founders of Ethereum\
+  \ included Gavin Wood, Charles Hoskinson, Anthony Di Iorio and Joseph Lubin. In\
+  \ 2014, development work began and was crowdfunded, and the network went live on\
+  \ 30 July 2015. Ethereum allows anyone to deploy permanent and immutable decentralized\
+  \ applications onto it, with which users can interact. Decentralized finance (DeFi)\
+  \ applications provide a broad array of financial services without the need for\
+  \ typical financial intermediaries like brokerages, exchanges, or banks, such as\
+  \ allowing cryptocurrency users to borrow against their holdings or lend them out\
+  \ for interest. Ethereum also allows users to create and exchange NFTs, which are\
+  \ unique tokens representing ownership of an associated asset or privilege, as recognized\
+  \ by any number of institutions. Additionally, many other cryptocurrencies utilize\
+  \ the ERC-20 token standard on top of the Ethereum blockchain and have utilized\
+  \ the platform for initial coin offerings.\nOn 15 September 2022, Ethereum transitioned\
+  \ its consensus mechanism from proof-of-work (PoW) to proof-of-stake (PoS) in an\
+  \ upgrade process known as \"the Merge\". Consequently, Ethereum's energy consumption\
+  \ rate was reduced by about 99.95%, translating to an estimated 110 TWh of annual\
+  \ energy savings (110 billion kilowatt-hours). The upgrade required no actions from\
+  \ Ethereum's users. During the Merge, Ethereum's proof-of-work mining mechanism\
+  \ was replaced with the Beacon Chain, a proof-of-stake blockchain network secured\
+  \ by validators staking ether.\n\n"
+sol: 'Solana is a public blockchain platform with smart contract functionality. Its
+  native cryptocurrency is SOL.
+
+
+
+  == History ==
+
+  Solana was proposed in a white paper Anatoly Yakovenko published in November 2017.
+  This paper described a technique called "proof of history".On 16 March 2020, Solana''s
+  first block was created.In September 2021, Bloomberg journalist Joanna Ossinger
+  said investors argued that Solana was "a potential long-term rival for Ethereum",
+  citing superior transaction speeds and lower associated costs.On 14 September 2021,
+  the Solana blockchain went offline after a surge of transactions caused the network
+  to fork, and different validators had different views of the state of the network.
+  The network was brought back online the next day on 15 September 2021.On 16 December
+  2021, the former First Lady of the United States Melania Trump announced her plans
+  to use Solana to launch a non-fungible token (NFT). The Solana Foundation issued
+  a press release to clarify that her choice of the platform was not officially "part
+  of any Solana-led initiative."The Solana blockchain again went offline on May 1st,
+  2022 and May 31st, 2022. The outage at the beginning of the month lasted roughly
+  seven hours, and the one at the end of the month lasted about four and a half hours.On
+  the 3 August 2022, it was announced that the Solana ecosystem had been targeted
+  by hackers, affecting 9,231 Solana wallets. Four Solana wallet addresses took approximately
+  $4.1 million in total from victims. All wallets affected were at one point created,
+  imported, or used in the Slope wallet applications on iOS and Android.  Security
+  researchers discovered that Slope wallet sent sensitive account data to its remote
+  servers in clear text.
+
+
+
+  === Lawsuit ===
+
+  On July 1, 2022, a class action lawsuit was filed against Solana.'
